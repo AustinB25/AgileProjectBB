@@ -1,0 +1,6 @@
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Services\bin\Debug\AgileProjectBB.Services.dll
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Services\bin\Debug\AgileProjectBB.Services.pdb
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Services\obj\Debug\AgileProjectBB.Services.csproj.AssemblyReference.cache
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Services\obj\Debug\AgileProjectBB.Services.csproj.CoreCompileInputs.cache
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Services\obj\Debug\AgileProjectBB.Services.dll
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Services\obj\Debug\AgileProjectBB.Services.pdb
