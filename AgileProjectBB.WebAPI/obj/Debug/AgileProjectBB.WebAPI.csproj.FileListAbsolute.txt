@@ -121,3 +121,4 @@ C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.WebAPI\bin\Micr
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.WebAPI\obj\Debug\AgileProjectBB.WebAPI.csproj.CopyComplete
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.WebAPI\obj\Debug\AgileProjectBB.WebAPI.dll
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.WebAPI\obj\Debug\AgileProjectBB.WebAPI.pdb
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.WebAPI\bin\AgileProjectBB.Services.dll.config

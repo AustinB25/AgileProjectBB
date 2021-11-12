@@ -1,10 +1,12 @@
-﻿using System.Security.Claims;
+﻿using System.Data.Entity;
+using System.Security.Claims;
 using System.Threading.Tasks;
+using AgileProjectBB.Data;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 
 
-namespace AgileProjectBB.WebAPI.Models
+namespace AgileProjectBB.Data
 {
     // You can add profile data for the user by adding more properties to your ApplicationUser class, please visit https://go.microsoft.com/fwlink/?LinkID=317594 to learn more.
     public class ApplicationUser : IdentityUser
@@ -29,5 +31,6 @@ namespace AgileProjectBB.WebAPI.Models
         {
             return new ApplicationDbContext();
         }
+        public DbSet<Ingredient> Ingredients { get; set; }
     }
 }
