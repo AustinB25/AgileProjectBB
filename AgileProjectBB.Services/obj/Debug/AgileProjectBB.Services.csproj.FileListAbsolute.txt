@@ -22,6 +22,5 @@ C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Services\bin\De
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Services\bin\Debug\Newtonsoft.Json.xml
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Services\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Services\bin\Debug\System.Web.Http.xml
-C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Services\obj\Debug\AgileProjectBB.Services.csproj.CopyComplete
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Services\bin\Debug\AgileProjectBB.Models.dll
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Services\bin\Debug\AgileProjectBB.Models.pdb
