@@ -8,5 +8,8 @@ namespace AgileProjectBB.Data
 {
     class IngredientList
     {
+        public string ListTitle { get; set; }
+
+        public List<Ingredient> ListOfIngredients { get; set; }
     }
 }
