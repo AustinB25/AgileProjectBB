@@ -19,10 +19,10 @@ namespace AgileProjectBB.WebAPI.Controllers
             var ingredients = ingredientService.GetIngredients();
             return Ok(ingredients);
         }
-        public IHttpActionResult Get(int id)
+        public IHttpActionResult Get(string SKU)
         {
             IngredientService ingredientService = CreateIngredientService();
-            var ingredient = ingredientService.GetIngredientById(id);
+            var ingredient = ingredientService.GetIngredientById(SKU);
             return Ok(ingredient);
         }
         public IHttpActionResult Post(IngredientCreate ingredient)
@@ -34,6 +34,15 @@ namespace AgileProjectBB.WebAPI.Controllers
                 return InternalServerError();
             return Ok();
         }
+        public IHttpActionResult Put(IngredientUpdate updatedIngredient)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+            var service = CreateIngredientService();
+            if (!service.IngregientUpdate(updatedIngredient))
+                 return InternalServerError();
+            return Ok();
+        }
         private IngredientService CreateIngredientService()
         {
             var Id = Guid.Parse(User.Identity.GetUserId());
@@ -43,3 +52,4 @@ namespace AgileProjectBB.WebAPI.Controllers
    
     }
 }
+  

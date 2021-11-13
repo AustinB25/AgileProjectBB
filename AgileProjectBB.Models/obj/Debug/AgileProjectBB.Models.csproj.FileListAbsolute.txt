@@ -4,3 +4,8 @@ C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Models\obj\Debu
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Models\obj\Debug\AgileProjectBB.Models.csproj.CoreCompileInputs.cache
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Models\obj\Debug\AgileProjectBB.Models.dll
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Models\obj\Debug\AgileProjectBB.Models.pdb
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Models\bin\Debug\AgileProjectBB.Models.dll.config
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Models\bin\Debug\EntityFramework.dll
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Models\bin\Debug\EntityFramework.xml
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Models\bin\Debug\EntityFramework.SqlServer.xml

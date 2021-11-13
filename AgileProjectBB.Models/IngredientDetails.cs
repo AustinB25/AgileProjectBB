@@ -9,7 +9,7 @@ namespace AgileProjectBB.Models
     public class IngredientDetails
     {
 
-        public int IngredientId { get; set; }
+        public string IngredientSKU { get; set; }
         public string Name { get; set; }
         public decimal Price { get; set; }   
         public DateTimeOffset CreationDate { get; set; }

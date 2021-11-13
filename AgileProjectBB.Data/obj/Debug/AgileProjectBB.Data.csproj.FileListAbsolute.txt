@@ -13,3 +13,5 @@ C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Data\bin\Debug\
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Data\obj\Debug\AgileProjectBB.Data.dll
 C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Data\obj\Debug\AgileProjectBB.Data.pdb
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Data\obj\Debug\AgileProjectBB.Data.Migrations.IngredientTable.resources
+C:\Users\kpak2\source\repos\AgileProjectBB.WebAPI\AgileProjectBB.Data\obj\Debug\AgileProjectBB.Data.csproj.GenerateResource.cache

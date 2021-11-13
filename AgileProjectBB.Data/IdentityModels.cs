@@ -32,5 +32,6 @@ namespace AgileProjectBB.Data
             return new ApplicationDbContext();
         }
         public DbSet<Ingredient> Ingredients { get; set; }
+       
     }
 }
